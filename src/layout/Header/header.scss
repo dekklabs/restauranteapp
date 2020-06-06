@@ -1,0 +1,8 @@
+@import '../../scss/app.scss';
+
+#navegacion {
+    background-color: $primary-dark-light;
+    a {
+        color: $primary-light;
+    }
+}
